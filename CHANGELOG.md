@@ -1,10 +1,4 @@
-# ALPHA v0.1
-
-
-
-TEMPLATE HERE
-
-## ALPHA v0.1 (unreleased)
+# ALPHA v0.1 (unreleased)
 
 Changes:
 
